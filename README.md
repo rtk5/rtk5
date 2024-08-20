@@ -1,4 +1,4 @@
-![RithvikMatta/README.md](Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner.png)
+![RishiASheth/README.md](rtk5/Banner.png)
 
 ## Rithvik Matta
 ### Always learning new
