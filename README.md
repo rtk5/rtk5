@@ -1,4 +1,4 @@
-![RishiASheth/README.md](rtk5/Banner.png)
+![RithvikMatta/README.md](rtk5/Banner.png)
 
 ## Rithvik Matta
 ### Always learning new
