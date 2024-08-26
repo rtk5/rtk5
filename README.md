@@ -1,5 +1,5 @@
 <!-- https://gprm.itsvg.in/-->
-
+<img src="Banner.png" >
 <h1 align="center">Hi 👋, I'm Rithvik</h1>
 <h3 align="center">A 2nd year at PES university, pursuing a degree in computer science engineering.I'm eager to experience the cutting-edge developments in technology</h3>
 
