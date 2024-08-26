@@ -1,14 +1,14 @@
 <!-- https://gprm.itsvg.in/-->
 <img src="Banner.png" >
-<h1 align="center">Hi 👋, I'm Rithvik</h1>
-<h3 align="center">A 2nd year at PES university, pursuing a degree in computer science engineering.I'm eager to experience the cutting-edge developments in technology</h3>
+<h1 align="center">Hi👋 there! I'm Rithvik,</h1>
+<h3 align="center"> a second-year student at PES University, pursuing a degree in computer science engineering. I'm excited about the latest advancements in technology.</h3>
 
 
 - 🔭 I’m currently working on **an Arduino project**
 
 - 🌱 I’m currently learning **web development and data structures**
 
-- 👯 I’m looking to collaborate on **any web development.**
+- 👯 I’m looking to collaborate on **any web development projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rtk5?tab=repositories](https://github.com/rtk5?tab=repositories)
 
