@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rithvik</h1>
 <h3 align="center">A 2nd year at PES university, pursuing a degree in computer science engineering.I'm eager to experience the cutting-edge developments in technology</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rtk5" alt="rtk5" /></a> </p>
+
 - 🔭 I’m currently working on **an Arduino project**
 
 - 🌱 I’m currently learning **web development and data structures**
