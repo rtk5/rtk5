@@ -11,11 +11,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rithvik matta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rithvik matta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rithvik-matta-a8490b2ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rithvik-matta-a8490b2ba" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/24417398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24417398" height="30" width="40" /></a>
 <a href="https://instagram.com/rithvikkkx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rithvikkkx" height="30" width="40" /></a>
+<a href="https://medium.com/@rtk5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rtk5" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/rtk5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rtk5" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pes2ug23cs485" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pes2ug23cs485" height="30" width="40" /></a>
-<a href="https://discord.gg/rtk#3340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rtk#3340" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/832541968042426389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="832541968042426389" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
