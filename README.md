@@ -4,11 +4,11 @@
 <h3 align="center"> a second-year student at PES University, pursuing a degree in computer science engineering. I'm excited about the latest advancements in technology.</h3>
 
 
-- 🔭 I’m currently working on **an Arduino project**
+- 🔭 I’m currently working on **backend(react and node js)**
 
 - 🌱 I’m currently learning **web development and data structures**
 
-- 👯 I’m looking to collaborate on **any web development projects.**
+- 👯 I’m looking to collaborate on **web development projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rtk5?tab=repositories](https://github.com/rtk5?tab=repositories)
 
