@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **web development projects.**
 
-- 👨‍💻 All of my projects are available at [![Click Me](https://via.placeholder.com/100x40?text=Click+Me)](https://github.com/rtk5?tab=repositories)
+- 👨‍💻 All of my projects are available at [Click Me](https://github.com/rtk5?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
