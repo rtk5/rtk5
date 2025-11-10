@@ -1,7 +1,7 @@
 <!-- https://gprm.itsvg.in/-->
 <img src="Banner.png" >
 <h1 align="center">Hi👋 there! I'm Rithvik,</h1>
-<h3 align="center"> a second-year student at PES University, pursuing a degree in computer science engineering. I'm excited about the latest advancements in technology.</h3>
+<h3 align="center"> a third-year student at PES University, pursuing a degree in computer science engineering. I'm excited about the latest advancements in technology.</h3>
 
 
 - 🔭 I’m currently working on **an ml project**
